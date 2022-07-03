@@ -13,7 +13,7 @@ and the Flutter guide for
 
 ### Chart Types
 
-[](https://github.com/dunt-96/barchart/blob/main/repo_files/images/barchart_mirror.png)
+[](https://github.com/dunt-96/barchart/blob/main/repo_files/images/barchart.png)
 
 ## Getting started
 
