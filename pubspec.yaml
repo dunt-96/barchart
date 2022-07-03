@@ -1,6 +1,6 @@
 name: fl_chart_barchart_mirror
 description: New barchar from fl_chart.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/dunt-96/barchart.git
 
 environment:
